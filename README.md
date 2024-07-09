@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click me](https://your-solution-url.com)
+- Solution URL: [Click me](https://www.frontendmentor.io/solutions/nft-preview-card-component-main-frontend-mentor-JBGWquicjA)
 - Live Site URL: [Click me](https://arjuno-008.github.io/nft-preview-card-component-main-Frontend-Mentor/)
 
 
